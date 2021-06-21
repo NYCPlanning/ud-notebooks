@@ -1,3 +1,3 @@
-# UD Analysis
+# UD Notebooks
 
-This repo contains code for spatial analysis projects in the Urban Design division.
+This repo contains code for notebook-based spatial analysis projects in the Urban Design division.
