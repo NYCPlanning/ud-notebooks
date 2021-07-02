@@ -17,6 +17,8 @@
 - Albedo 
 - Existing cool roofs ( we only know about cool roofs that have been coated through SBS not the state of white roofs in general, we could use albedo analysis to figure this out).
 
+---
+
 ### Building Identification Methods: 
 - [Spatial Filtering](https://www.caee.utexas.edu/prof/kockelman/public_html/TRB12SpatialFiltering.pdf)
 - [Random Forest ML Model](https://www.youtube.com/watch?v=RXQBMAGaabs)
